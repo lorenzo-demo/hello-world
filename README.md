@@ -1,2 +1,2 @@
 # hello-world
-demo git
+demo git pour l'équipe
